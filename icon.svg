@@ -1,0 +1,10 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="512" height="512" viewBox="0 0 512 512">
+<defs>
+<linearGradient id="g" x1="0" y1="0" x2="1" y2="1"><stop offset="0" stop-color="#16c08a"/><stop offset=".55" stop-color="#0f9f6e"/><stop offset="1" stop-color="#0b7d78"/></linearGradient>
+<radialGradient id="h" cx=".25" cy=".15" r=".8"><stop offset="0" stop-color="#fff" stop-opacity=".28"/><stop offset=".6" stop-color="#fff" stop-opacity="0"/></radialGradient>
+<filter id="s" x="-20%" y="-20%" width="140%" height="140%"><feDropShadow dx="0" dy="10" stdDeviation="12" flood-color="#053b30" flood-opacity=".35"/></filter>
+</defs>
+<rect width="512" height="512" rx="112" fill="url(#g)"/>
+<rect width="512" height="512" rx="112" fill="url(#h)"/>
+<text x="256" y="256" dy=".355em" text-anchor="middle" font-family="Inter" font-weight="800" font-size="330" fill="#fff" filter="url(#s)">€</text>
+</svg>
